@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "257315498934",
+    "firebase_url": "https://organized-31f8a.firebaseio.com",
+    "project_id": "organized-31f8a",
+    "storage_bucket": "organized-31f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257315498934:android:2284a065b9cca342",
+        "android_client_info": {
+          "package_name": "com.tamersarioglu.organized"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257315498934-t26cahf43ir58kh3hc9hp5b37t1qui5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamersarioglu.organized",
+            "certificate_hash": "53acf8681a79abd39f7435dfd4545ac2d009b3d8"
+          }
+        },
+        {
+          "client_id": "257315498934-04kb7t85mj5sgh6rpi9t367va8c9fkrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamersarioglu.organized",
+            "certificate_hash": "3d2d8d5f4751e4dfc29d94b98930259466bc0950"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00dajIsa8c8e6mF7UmHXtbRh7fe0DM7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257315498934-folb64le4s4b4n49vb03bp2vcfhb90ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
